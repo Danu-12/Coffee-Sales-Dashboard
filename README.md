@@ -116,6 +116,6 @@ This dashboard follows that principle by:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://github.com/Danu-12/Coffee-Sales-Dashboard/blob/main/cofee%20dahboard.png)
+![Dashboard Preview](https://github.com/Danu-12/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.gif)
 
 ##
