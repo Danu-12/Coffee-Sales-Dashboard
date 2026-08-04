@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Dashboard  | Starbucks-Inspired Design)
+# ☕ Sales Performance & MIS Dashboard  | Starbucks-Inspired Design)
 
 A clean, insight-focused **Excel dashboard** built to analyze coffee sales performance and support loyalty program and inventory decisions using simple, clutter-free visuals.
 
@@ -6,7 +6,7 @@ A clean, insight-focused **Excel dashboard** built to analyze coffee sales perfo
 
 ## 📌 Project Overview
 
-The **Coffee Sales Dashboard** was created to help a business owner track sales performance and design a data-driven **loyalty program**. While raw sales and customer data were available, comparing different coffee beans and roast types over time — and linking sales data with customer behavior — was time-consuming and complex.
+The **Sales Performance & MIS Dashboard** was created to help a business owner track sales performance and design a data-driven **loyalty program**. While raw sales and customer data were available, comparing different coffee beans and roast types over time — and linking sales data with customer behavior — was time-consuming and complex.
 
 ---
 
